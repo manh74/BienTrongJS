@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		var a = 1;
+		console.log(a);
+		var b = 0.5;
+		console.log(b);
+		var c = 0.0121115255545221212;
+		console.log(c);
+		var d = "Hello! It's me..";
+		console.log(d);
+		var e = 'd'
+		console.log(e);
+		var f = true;
+		console.log(f);
+		
+	</script>
+</head>
+<body>
+
+</body>
+</html>
